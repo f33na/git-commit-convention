@@ -2,9 +2,9 @@
 
 > Лёгкий и практичный стандарт оформления коммитов и семантического версионирования — подходит как для одного разработчика, так и для команды.
 
-[![Standard Version](https://img.shields.io/badge/standard-v1.0.0-blue)](./GIT_CONVENTION_RU.md)
+[![Standard Version](https://img.shields.io/badge/standard-v1.0.0-blue)](./i18n/GIT_CONVENTION_RU.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![EN](https://img.shields.io/badge/lang-EN-blue)](./README.md)
+[![EN](https://img.shields.io/badge/lang-EN-blue)](./i18n/GIT_CONVENTION_EN.md)
 
 ---
 

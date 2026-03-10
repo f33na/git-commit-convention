@@ -2,7 +2,7 @@
 
 > A lightweight, practical standard for commit messages and semantic versioning — works for solo developers and teams alike.
 
-[![Standard Version](https://img.shields.io/badge/standard-v1.0.0-blue)](./GIT_CONVENTION_EN.md)
+[![Standard Version](https://img.shields.io/badge/standard-v1.0.0-blue)](./GIT_CONVENTION.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---

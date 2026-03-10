@@ -142,7 +142,7 @@ Does the TAG affect the version?
 
 ## Contributing
 
-Found an issue or have a suggestion? Open an [issue](./issues) or submit a [pull request](./pulls).  
+Found an issue or have a suggestion? Open an [issue](../../issues) or submit a [pull request](../../pulls).  
 Please follow this very convention when contributing 😉
 
 ---
